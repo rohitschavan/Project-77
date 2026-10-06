@@ -11,7 +11,7 @@ I worked on this assignments during my Intership in AI Variant.
 **Server:** Python, Flask
 
 
-## Deployments
+## Deployment
 
 To deploy this project run
 
